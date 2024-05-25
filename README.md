@@ -1,6 +1,7 @@
-# variantCalling: Variant Calling from RANseq data
+# Variant Calling: Variant Calling from RNA-seq Data
 
-Induced mutagenesis is commonly used to the finding of genetic variation/new allelic variants (Chaudhary et al. 2019)1. This tool is used to detect variants in forward genetic screens and transgene organism from RNAseq data. Unlike most Mapping-by-sequencing strategies, this tool accepts standard mapping data format bam and generated text of all homozygous and heterozygous variants, including SNP and InDel. The bam file can be visualized in RNAseqBrowser:
+Induced mutagenesis is commonly used for the discovery of genetic variation and new allelic variants (Chaudhary et al., 2019). This tool is employed to detect variants in forward genetic screens and transgenic organisms from RNA-seq data. Unlike most mapping-by-sequencing strategies, this tool accepts standard mapping data format (BAM) and generates text for all homozygous and heterozygous variants, including SNPs and InDels. 
+The BAM file can be visualized in RNA-seq Browser:
 ![image](image/RNAseqBrowser.png)
 ## quick start
 1. run VariantCalling
